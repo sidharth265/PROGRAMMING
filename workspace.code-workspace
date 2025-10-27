@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "*.embeddedhtml": "html",
+            "cmath": "cpp",
+            "iostream": "cpp",
+            "random": "cpp",
+            "vector": "cpp",
+            "regex": "cpp",
+            "ostream": "cpp",
+            "functional": "cpp",
+            "cpp": "cpp",
+            "sstream": "cpp",
+            "array": "cpp",
+            "string": "cpp"
+        }
+    }
+}

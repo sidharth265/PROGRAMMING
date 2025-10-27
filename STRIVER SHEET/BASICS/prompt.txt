@@ -1,0 +1,23 @@
+Whenever I give you a coding problem, ALWAYS format the solution exactly in the following structure:
+
+1. Add all necessary headers using `#include <bits/stdc++.h>` and `using namespace std;`
+2. At the very top, include a large block comment with:
+   - Problem Title + Link
+   - Problem Statement
+   - Example(s) with input/output and explanation
+3. For **each approach** (Brute Force → Better → Optimal):
+   - Add a clear comment section, titled `Approach X: <name>`
+   - Inside it, explain:
+     💡 Idea
+     🧩 Algorithm (step-by-step numbered instructions)
+     ⏱ Time Complexity
+     📦 Space Complexity
+4. Write clean, readable functions (one per approach).
+5. Use helper functions where necessary, give them clear names.
+6. Show a `main()` function with:
+   - Example inputs and outputs
+   - Multiple test cases if possible
+7. At bottom of main, add a **summary block** called `✅ Approach Overview`, comparing all approaches.
+8. Always keep the code **self-contained & interview ready**.
+
+My expectation is that each solution looks **exactly like this template**, no matter the problem.
